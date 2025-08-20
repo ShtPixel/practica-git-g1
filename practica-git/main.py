@@ -1,2 +1,1 @@
-print ("Hola")
-print ("Chao")
+print ("Holi")
