@@ -14,9 +14,6 @@ for i in range(10):
     print(i)
 
 print("Hola desde la rama JATB")
-<<<<<<< HEAD
 print("hola desde la rama JATBnueva")
-=======
 
 pritn ("hola ramayei2")
->>>>>>> f69c21cc42bfc35dac9edd25978671f419dc427e
