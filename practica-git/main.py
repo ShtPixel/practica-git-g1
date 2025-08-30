@@ -16,4 +16,4 @@ for i in range(10):
 print("Hola desde la rama JATB")
 print("hola desde la rama JATBnueva")
 
-pritn ("hola ramayei2")
+print ("hola ramayei2")
